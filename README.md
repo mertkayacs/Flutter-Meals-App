@@ -1,16 +1,33 @@
 # mealapp
 
-A new Flutter project.
+Meal App project consist of a flutter app where user can view recipes of meals in different categories, filter or favorite them according to their desires.
 
-## Getting Started
+##Screenshots of the app can be seen below.
 
-This project is a starting point for a Flutter application.
+*Main page*
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot](assets/ScreenShots/ss1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+*Inside of a category page*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot](assets/ScreenShots/ss2.png)
+
+
+*Meal Detail Page*
+
+![Screenshot](assets/ScreenShots/ss3.png)
+
+
+*Drawer*
+
+![Screenshot](assets/ScreenShots/ss4.png)
+
+
+*Filters Page*
+
+![Screenshot](assets/ScreenShots/ss5.png)
+
+
+*Favorites page*
+
+![Screenshot](assets/ScreenShots/ss6.png)
