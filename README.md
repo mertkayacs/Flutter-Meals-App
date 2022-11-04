@@ -31,3 +31,7 @@ Meal App project consist of a flutter app where user can view recipes of meals i
 *Favorites page*
 
 ![Screenshot](assets/ScreenShots/ss6.png)
+
+*Look on the web build*
+
+![Screenshot](assets/ScreenShots/ss7.png)
