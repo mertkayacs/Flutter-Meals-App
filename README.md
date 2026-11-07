@@ -50,10 +50,6 @@ The app is small and each screen has one job.
 
 ## A quick tour
 
-<p align="center">
-  <img src="docs/assets/readme/tour.gif" alt="DeliMeals tour moving through categories, a recipe with the drawer, filters with favorites and the web build" width="900">
-</p>
-
 <table>
   <tr>
     <td width="50%" valign="top">
